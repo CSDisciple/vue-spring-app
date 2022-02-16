@@ -1,4 +1,4 @@
-package com.csdisciple.backend;
+package com.csdisciple.backend.api;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
