@@ -3,16 +3,16 @@ package com.csdisciple.backend.model;
 import java.util.UUID;
 
 public class Person {
-    UUID id;
+    int id;
     String name;
 
-    public UUID getId() {
+    public int getId() {
         return id;
     }
     public String getName() {
         return name;
     }
-    public void setId(UUID id) {
+    public void setId(int id) {
         this.id = id;
     }
     public void setName(String name) {
